@@ -14,5 +14,5 @@ OOP implementation for a ride-sharing service demonstrating:
 - Smalltalk Implementation
   
 ## How to Run
-- C++: [Instructions]
-- Smalltalk: [Instructions]
+- C++
+- Smalltalk
